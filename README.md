@@ -80,3 +80,10 @@ Cuyo resultado sera :
         Orden:Pinales
         Cantidad:1
         -----------------------------
+        
+        
+        Diagrama : 
+        
+        ![diagrama](https://user-images.githubusercontent.com/64318749/139541724-059253ef-4ef1-4d57-b52f-c8fd2b5bfcba.png)
+
+        
