@@ -1,4 +1,7 @@
 # Invernadero
+ 
+Diagrama:        
+![diagrama](https://user-images.githubusercontent.com/64318749/139541757-aa047f3d-dcd6-4454-9d48-251d220b5a11.png)
 
 
 Documentacion
@@ -80,10 +83,5 @@ Cuyo resultado sera :
         Orden:Pinales
         Cantidad:1
         -----------------------------
-        
-        
-        Diagrama : 
-        
-        ![diagrama](https://user-images.githubusercontent.com/64318749/139541724-059253ef-4ef1-4d57-b52f-c8fd2b5bfcba.png)
-
+       
         
